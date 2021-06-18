@@ -1,2 +1,0 @@
-# studiotest
-testing and learning
